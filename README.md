@@ -1,1 +1,1 @@
-![Imagen de ejemplo](screen.jpg)
+![Imagen de ejemplo](Screen.jpg)
